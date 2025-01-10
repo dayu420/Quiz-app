@@ -21,3 +21,7 @@ JavaScript Concepts Learned :
 
 Arrays, DOM Manipulation, Event Handling, Timers, Conditional Logic, Classes and Objects, Reusability.
 
+Technologies used:
+-HTML
+-CSS (Raw)
+-Vanilla Javascript
